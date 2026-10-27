@@ -19,6 +19,8 @@ I build products at the intersection of engineering and creativity. I coined the
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)
 
 Lately: AI/LLM-assisted development workflows.
 
